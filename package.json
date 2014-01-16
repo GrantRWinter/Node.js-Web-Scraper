@@ -1,0 +1,22 @@
+{
+  "name": "Node.js-Web-Scraper",
+  "version": "0.0.0",
+  "description": "junior web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gr4x/Node.js-Web-Scraper.git"
+  },
+  "author": "Grant Winter",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gr4x/Node.js-Web-Scraper/issues"
+  },
+  "dependencies": {
+    "request": "~2.31.0",
+    "cheerio": "~0.13.1"
+  }
+}
